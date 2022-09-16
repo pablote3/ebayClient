@@ -5,7 +5,8 @@
 
 	<name>ebayClient</name>
 	<artifactId>ebayClient</artifactId>
-	<description>Java client for ebay REST APIs</description>
+	<groupId>com.rossotti.ebay</groupId>
+	<description>Java client for interacting with eBay REST APIs</description>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
