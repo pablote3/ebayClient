@@ -1,17 +1,13 @@
 package com.rossotti.ebay.config;
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 import org.springframework.context.annotation.Configuration;
 @Configuration
+@Getter
+@Setter
+@NoArgsConstructor
 public class WebClientProperties {
-    public WebClientProperties() {}
-
     private String baseUrl;
-
-    public String getBaseUrl() {
-        return baseUrl;
-    }
-
-    public void setBaseUrl(String baseUrl) {
-        this.baseUrl = baseUrl;
-    }
 }
