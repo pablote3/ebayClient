@@ -1,7 +1,7 @@
-package com.rossotti.ebay.account;
+package com.rossotti.client.account;
 
-import com.rossotti.ebay.config.WebClientProperties;
-import com.rossotti.ebay.model.Account;
+import com.rossotti.client.config.WebClientProperties;
+import com.rossotti.client.model.Account;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 

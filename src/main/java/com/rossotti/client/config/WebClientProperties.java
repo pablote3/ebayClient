@@ -1,4 +1,4 @@
-package com.rossotti.ebay.config;
+package com.rossotti.client.config;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

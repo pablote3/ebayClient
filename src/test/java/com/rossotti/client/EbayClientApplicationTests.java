@@ -1,4 +1,4 @@
-package com.rossotti.ebay;
+package com.rossotti.client;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

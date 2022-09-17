@@ -1,4 +1,4 @@
-package com.rossotti.ebay.config;
+package com.rossotti.client.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

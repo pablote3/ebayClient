@@ -1,8 +1,8 @@
-package com.rossotti.ebay;
+package com.rossotti.client;
 
-import com.rossotti.ebay.account.AccountService;
-import com.rossotti.ebay.config.WebClientProperties;
-import com.rossotti.ebay.model.Account;
+import com.rossotti.client.account.AccountService;
+import com.rossotti.client.config.WebClientProperties;
+import com.rossotti.client.model.Account;
 import okhttp3.mockwebserver.MockResponse;
 import okhttp3.mockwebserver.MockWebServer;
 import okhttp3.mockwebserver.RecordedRequest;

@@ -1,4 +1,4 @@
-package com.rossotti.ebay.model;
+package com.rossotti.client.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
